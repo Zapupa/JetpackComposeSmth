@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JetpackComposeSmth</string>
+    <string name="alert_dialog_title">Alert Dialog</string>
+    <string name="alert_dialog_text">Jetpack Compose Alert Dialog</string>
+    <string name="confirm">Confirm</string>
+    <string name="first">first</string>
+    <string name="second">second</string>
+    <string name="third">third</string>
+</resources>
